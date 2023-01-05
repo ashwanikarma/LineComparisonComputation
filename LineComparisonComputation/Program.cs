@@ -27,14 +27,18 @@
             length2 = Math.Sqrt(Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2));
             Console.WriteLine("Length of first Line is : " + length1 + " cm");
             Console.WriteLine("Length of second Line is : " + length2 + " cm");
-            bool line = length1.Equals(length2);
-            if (line == true)
+            int status = length1.CompareTo(length2);
+            if (status > 0)
             {
-                Console.WriteLine("Length of both the lines are equal ");
+                Console.WriteLine("First Length is Greater than Second ");
+            }
+            else if (status < 0) 
+            {
+                Console.WriteLine("Second Length is Greater than First");
             }
             else
             {
-                Console.WriteLine("Length of both the lines are not equals");
+                Console.WriteLine("Both Lines Length is Equal");
             }
         }
     }
