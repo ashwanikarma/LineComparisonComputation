@@ -1,0 +1,15 @@
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\bin\Debug\net6.0\LineComparisonComputation.exe
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\bin\Debug\net6.0\LineComparisonComputation.deps.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\bin\Debug\net6.0\LineComparisonComputation.runtimeconfig.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\bin\Debug\net6.0\LineComparisonComputation.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\bin\Debug\net6.0\LineComparisonComputation.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\LineComparisonComputation.csproj.AssemblyReference.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\LineComparisonComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\LineComparisonComputation.AssemblyInfoInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\LineComparisonComputation.AssemblyInfo.cs
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\LineComparisonComputation.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\LineComparisonComputation.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\refint\LineComparisonComputation.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\LineComparisonComputation.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\LineComparisonComputation.genruntimeconfig.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\LineComparisonComputation\LineComparisonComputation\LineComparisonComputation\obj\Debug\net6.0\ref\LineComparisonComputation.dll
